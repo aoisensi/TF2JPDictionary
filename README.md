@@ -5,7 +5,6 @@ GoogleIME もしくは mozc でのみ使えると思います
 -------------------------
 
 修正とかあったらバンバンプルリクしてください 
-プルリクの仕方がわからない場合、 
-Twitter:[@aoisensi](http://twitter.com/aoisensi) 
-Steam:[aoisensi](http://steamcommunity.com/id/aoisensi) 
+プルリクの仕方がわからない場合、  
+[Twitter](http://twitter.com/aoisensi)やSteam:[Steam](http://steamcommunity.com/id/aoisensi)
 にリプライなりチャットなりどうぞ
