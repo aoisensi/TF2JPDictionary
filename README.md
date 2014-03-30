@@ -2,7 +2,7 @@
 
 GoogleIME もしくは mozc でのみ使えると思います
 
-修正とかあったらバンバンプルリクしてください  
+修正や提案があるのならバンバンプルリクやissueに投げてください  
 プルリクの仕方がわからない場合、  
 [Twitter](http://twitter.com/aoisensi)や[Steam](http://steamcommunity.com/id/aoisensi)
 にリプライなりチャットなりどうぞ
