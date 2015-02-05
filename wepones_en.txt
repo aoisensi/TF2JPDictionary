@@ -4,3 +4,12 @@
 そーだぽっぱー	Soda Popper	固有名詞	TF2のスカウトのメイン武器
 べびーふぇいすずぶらすたー	Baby Face's Blaster	固有名詞	TF2のスカウトのメイン武器
 ばっくすきゃったー	Back Scatter	固有名詞	TF2のスカウトのメイン武器
+
+るがーもーふ	Lugermorph	固有名詞	TF2のスカウトのサブ武器
+うぃんがー	Winger	固有名詞	TF2のスカウトのサブ武器
+ぷりてぃぼーいずぽけっとぴすとる	Pretty Boy's Pocket Pistol	固有名詞	TF2のスカウトのサブ武器
+ふらいんぐぎろちん	Flying Guillotine	固有名詞	TF2のスカウトのサブ武器
+ぼんくあとみっくぱんち	Bonk! Atomic Punch	固有名詞	TF2のスカウトのサブ武器
+くりてぃこーら	Crit-a-Cola	固有名詞	TF2のスカウトのサブ武器
+まっどみるく	Mad Milk	固有名詞	TF2のスカウトのサブ武器
+みゅーてぃてっどみるく	Mutated Milk	固有名詞	TF2のスカウトのサブ武器
