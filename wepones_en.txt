@@ -1,0 +1,6 @@
+さんだんじゅう	Scattergun	固有名詞	TF2のスカウトのメイン武器
+ふぉーすあねーちゃー	Force-A-Nature	固有名詞	TF2のスカウトのメイン武器
+しょーとすとっぷ	Shortstop	固有名詞	TF2のスカウトのメイン武器
+そーだぽっぱー	Soda Popper	固有名詞	TF2のスカウトのメイン武器
+べびーふぇいすずぶらすたー	Baby Face's Blaster	固有名詞	TF2のスカウトのメイン武器
+ばっくすきゃったー	Back Scatter	固有名詞	TF2のスカウトのメイン武器
