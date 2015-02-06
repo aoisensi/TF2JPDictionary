@@ -13,3 +13,15 @@
 くりてぃこーら	Crit-a-Cola	固有名詞	TF2のスカウトのサブ武器
 まっどみるく	Mad Milk	固有名詞	TF2のスカウトのサブ武器
 みゅーてぃてっどみるく	Mutated Milk	固有名詞	TF2のスカウトのサブ武器
+
+ばっと	Bat	固有名詞	TF2のスカウトの近接
+ほーりーまらかる	HolyMackerel	固有名詞	TF2のスカウトの近接
+あんあーむどこんばっと	Unarmed Combat	固有名詞	TF2のスカウトの近接
+さんどまん	Sandman	固有名詞	TF2のスカウトの近接
+きゃんでぃーけーん	Candy Cane	固有名詞	TF2のスカウトの近接
+ぼすとんばっしゃー	Boston Basher	固有名詞	TF2のスカウトの近接
+すりーるーんぶれいど	Three-Rune Blade	固有名詞	TF2のスカウトの近接
+さんおんあすてぃっく	Sun-on-a-Stick	固有名詞	TF2のスカウトの近接
+ふぁんおぶうぉー	Fan O'War	固有名詞	TF2のスカウトの近接
+あとまいざー	Atomizer	固有名詞	TF2のスカウトの近接
+らっぷあさしん	Wrap Assasin	固有名詞	TF2のスカウトの近接
