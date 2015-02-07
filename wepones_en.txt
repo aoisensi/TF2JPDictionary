@@ -25,3 +25,30 @@
 ふぁんおぶうぉー	Fan O'War	固有名詞	TF2のスカウトの近接
 あとまいざー	Atomizer	固有名詞	TF2のスカウトの近接
 らっぷあさしん	Wrap Assasin	固有名詞	TF2のスカウトの近接
+
+
+
+ろけっとらんちゃー	Rocket Launcher	固有名詞	TF2のソルジャーのメイン武器
+おりじなる	Original	固有名詞	TF2のソルジャーのメイン武器
+だいれくとひっと	Direct Hit	固有名詞	TF2のソルジャーのメイン武器
+ぶらっくぼっくす	Black Box	固有名詞	TF2のソルジャーのメイン武器
+ろけっとじゃんぱー	Rocket Jumper	固有名詞	TF2のソルジャーのメイン武器
+りばてぃーらんちゃー	Liberty Launcher	固有名詞	TF2のソルジャーのメイン武器
+かうまんぐらー5000	Cow Mangler 5000	固有名詞	TF2のソルジャーのメイン武器
+べがーずばすーか	Beggar's Bazooka	固有名詞	TF2のソルジャーのメイン武器
+えあすとらいく	Air Strike	固有名詞	TF2のソルジャーのメイン武器
+
+ばふばなー	Buff Banner	固有名詞	TF2のソルジャーのサブ武器
+がんぼーと	Gunboats	固有名詞	TF2のソルジャーのサブ武器
+ばたりおんずばっくあっぷ	Battalion's Backup	固有名詞	TF2のソルジャーのサブ武器
+こんからー	Concheror	固有名詞	TF2のソルジャーのサブ武器
+まんとれっず	Mantreads	固有名詞	TF2のソルジャーのサブ武器
+らいちゃすばいそん	Righteous Bison	固有名詞	TF2のソルジャーのサブ武器
+
+しゃべる	Shovel	固有名詞	TF2のソルジャーの近接
+いこらいざー	Equalizer	固有名詞	TF2のソルジャーの近接
+ぺいんとれいん	Pain Train	固有名詞	TF2のソルジャーの近接
+はーふざとういち	Half-Zatoichi	固有名詞	TF2のソルジャーの近接
+でぃしぷりなりーあくしょん	Disciplinary Action	固有名詞	TF2のソルジャーの近接
+まーけっとがーでなー	Market Gardener	固有名詞	TF2のソルジャーの近接
+えすけーぷぷらん	Escape Plan	固有名詞	TF2のソルジャーの近接
