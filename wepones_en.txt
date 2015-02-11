@@ -78,3 +78,12 @@
 しゃーぺんどぼるけいのふらっぐめんと	Sharpened Volcano Fragment	固有名詞	TF2のパイロの近接
 さーどでぃぐりー	Third Degree	固有名詞	TF2のパイロの近接
 ねおんあないあれいたー	Neon Annihilator	固有名詞	TF2のパイロの近接
+
+
+
+ぐれねーどらんちゃー	Granade Launcher	固有名詞	TF2のデモマンのメイン武器
+ろっくんろーど	Loch-n-Load	固有名詞	TF2のデモマンのメイン武器
+ありばばずうぃーぶーつ	Ali Baba's Wee Booties	固有名詞	TF2のデモマンのメイン武器
+ぶーとれっがー	Bootlegger	固有名詞	TF2のデモマンのメイン武器
+るーずきゃのん	Loose Cannon	固有名詞	TF2のデモマンのメイン武器
+あいあんぼまー	Iron Bomber	固有名詞	TF2のデモマンのメイン武器
