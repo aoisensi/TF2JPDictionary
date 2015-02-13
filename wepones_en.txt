@@ -87,3 +87,11 @@
 ぶーとれっがー	Bootlegger	固有名詞	TF2のデモマンのメイン武器
 るーずきゃのん	Loose Cannon	固有名詞	TF2のデモマンのメイン武器
 あいあんぼまー	Iron Bomber	固有名詞	TF2のデモマンのメイン武器
+
+ねんちゃくばくだんらんちゃー	Stickybomb Launcher	固有名詞	TF2のデモマンのサブ武器
+すこてぃっしゅれじすたんす	Scottish Resistance	固有名詞	TF2のデモマンのサブ武器
+ちゃーじんたーじ	Chargin' Targe	固有名詞	TF2のデモマンのサブ武器
+すてぃっきーじゃんぱー	Sticky Jumper	固有名詞	TF2のデモマンのサブ武器
+すぷれんでぃっどすくりーん	Splendid Screen	固有名詞	TF2のデモマンのサブ武器
+たいどたーなー	Tide Turner	固有名詞	TF2のデモマンのサブ武器
+くいっくぼむらんちゃー	Quickiebomb Launcher	固有名詞	TF2のデモマンのサブ武器
