@@ -95,3 +95,15 @@
 すぷれんでぃっどすくりーん	Splendid Screen	固有名詞	TF2のデモマンのサブ武器
 たいどたーなー	Tide Turner	固有名詞	TF2のデモマンのサブ武器
 くいっくぼむらんちゃー	Quickiebomb Launcher	固有名詞	TF2のデモマンのサブ武器
+
+ぼとる	Bottle	固有名詞	TF2のデモマンの近接
+すこてぃっしゅはんどしぇいく	Schottish Handshake	固有名詞	TF2のデモマンの近接
+あいらんだー	Eyelander	固有名詞	TF2のデモマンの近接
+ほーすれすへっどれすほーすまんずへっどていかー	Horseless Headless Horsemann's Headtaker	固有名詞	TF2のデモマンの近接
+ねっしーずないんあいあん	Nessie's Nine Iron	固有名詞	TF2のデモマンの近接
+すこっつまんずすかるかったー	Scotsman's Skullcutter	固有名詞	TF2のデモマンの近接
+ぺいんとれいん	Pain Train	固有名詞	TF2のデモマンの近接
+うらぷーるけいばー	Ullapool Caber	固有名詞	TF2のデモマンの近接
+くれふもあ	Claidheamh Mòr	固有名詞	TF2のデモマンの近接
+はーふざとういち	Half-Zatoichi	固有名詞	TF2のデモマンの近接
+ぺるしあんぱーすえいだー	Persian Persuader	固有名詞	TF2のデモマンの近接
