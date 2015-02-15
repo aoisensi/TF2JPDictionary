@@ -107,3 +107,12 @@
 くれふもあ	Claidheamh Mòr	固有名詞	TF2のデモマンの近接
 はーふざとういち	Half-Zatoichi	固有名詞	TF2のデモマンの近接
 ぺるしあんぱーすえいだー	Persian Persuader	固有名詞	TF2のデモマンの近接
+
+
+
+みにがん	Minigun	固有名詞	TF2のヘビーのメイン武器
+あいあんかーてん	Iron Curtain	固有名詞	TF2のヘビーのメイン武器
+なたーしゃ	Natascha	固有名詞	TF2のヘビーのメイン武器
+ぶらすびーすと	Brass Beast	固有名詞	TF2のヘビーのメイン武器
+とみすらヴ	Tomislav	固有名詞	TF2のヘビーのメイン武器
+ふぉーろんひーたー	Huo-Long Heater	固有名詞	TF2のヘビーのメイン武器
