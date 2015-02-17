@@ -123,3 +123,13 @@
 だーろっくすばー	Dalokohs bar	固有名詞	TF2のヘビーのサブ武器
 ふぃっしゅけーき	Fishcake	固有名詞	TF2のヘビーのサブ武器
 ばっふぁろーすてーきさんどヴぃっち	Buffalo Steak Sandvich	固有名詞	TF2のヘビーのサブ武器
+
+こぶし	Fists	固有名詞	TF2のヘビーの近接
+あぽこふぃすつ	Apoco-Fists	固有名詞	TF2のヘビーの近接
+きりんぐぐろーぶおぶぼくしんぐ	Killing Gloves of Boxing	固有名詞	TF2のヘビーの近接
+ぐろーぶおぶらんにんぐあーじぇんとりー	Gloves of Running Urgently	固有名詞	TF2のヘビーの近接
+ぶれっどばいと	Bread Bite	固有名詞	TF2のヘビーの近接
+うぉーりあーずすぴりっと	Warrior's Spirit	固有名詞	TF2のヘビーの近接
+ふぃすつおぶすちーる	Fists of Steel	固有名詞	TF2のヘビーの近接
+えぴくしょんのーてぃす	Eviction Notice	固有名詞	TF2のヘビーの近接
+ほりでーぱんち	Holiday Punch	固有名詞	TF2のヘビーの近接
