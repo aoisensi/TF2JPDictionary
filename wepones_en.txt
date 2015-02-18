@@ -133,3 +133,10 @@
 ふぃすつおぶすちーる	Fists of Steel	固有名詞	TF2のヘビーの近接
 えぴくしょんのーてぃす	Eviction Notice	固有名詞	TF2のヘビーの近接
 ほりでーぱんち	Holiday Punch	固有名詞	TF2のヘビーの近接
+
+
+
+ふろんてぃあじゃすてぃす	Frontier Justice	固有名詞	TF2のエンジニアのメイン武器
+うぃどうめーかー	Widowmaker	固有名詞	TF2のエンジニアのメイン武器
+ぽむぞん６０００	Pomson 6000	固有名詞	TF2のエンジニアのメイン武器
+れすきゅーれんじゃー	Rescue Ranger	固有名詞	TF2のエンジニアのメイン武器
