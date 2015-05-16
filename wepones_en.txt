@@ -116,3 +116,10 @@
 ぶらすびーすと	Brass Beast	固有名詞	TF2のヘビーのメイン武器
 とみすらヴ	Tomislav	固有名詞	TF2のヘビーのメイン武器
 ふぉーろんひーたー	Huo-Long Heater	固有名詞	TF2のヘビーのメイン武器
+
+ふぁみりーびじねす	Family Business	固有名詞	TF2のヘビーのサブ武器
+さんどヴぃっち	Sandvich	固有名詞	TF2のヘビーのサブ武器
+ろぼ・さんどヴぃっち	Robo-Sandvich	固有名詞	TF2のヘビーのサブ武器
+だーろっくすばー	Dalokohs bar	固有名詞	TF2のヘビーのサブ武器
+ふぃっしゅけーき	Fishcake	固有名詞	TF2のヘビーのサブ武器
+ばっふぁろーすてーきさんどヴぃっち	Buffalo Steak Sandvich	固有名詞	TF2のヘビーのサブ武器
