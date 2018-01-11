@@ -6,6 +6,7 @@
 ばっくすきゃったー	Back Scatter	固有名詞	TF2のスカウトのメイン武器
 
 るがーもーふ	Lugermorph	固有名詞	TF2のスカウトのサブ武器
+かっぱー	C.A.P.P.E.R	固有名詞	TF2のスカウトのサブ武器
 うぃんがー	Winger	固有名詞	TF2のスカウトのサブ武器
 ぷりてぃぼーいずぽけっとぴすとる	Pretty Boy's Pocket Pistol	固有名詞	TF2のスカウトのサブ武器
 ふらいんぐぎろちん	Flying Guillotine	固有名詞	TF2のスカウトのサブ武器
@@ -17,6 +18,7 @@
 ばっと	Bat	固有名詞	TF2のスカウトの近接
 ほーりーまらかる	HolyMackerel	固有名詞	TF2のスカウトの近接
 あんあーむどこんばっと	Unarmed Combat	固有名詞	TF2のスカウトの近接
+ばっとせーばー	Batsaber	固有名詞	TF2のスカウトの近接
 さんどまん	Sandman	固有名詞	TF2のスカウトの近接
 きゃんでぃーけーん	Candy Cane	固有名詞	TF2のスカウトの近接
 ぼすとんばっしゃー	Boston Basher	固有名詞	TF2のスカウトの近接
