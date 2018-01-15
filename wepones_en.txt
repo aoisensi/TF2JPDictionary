@@ -146,3 +146,10 @@
 らんぐらー	Wrangler	固有名詞	TF2のエンジニアのサブ武器
 ぎーがーかうんたー   Giger Counter   固有名詞   TF2のエンジニアのサブ武器   
 しょーとさーきっと	Short Circuit	固有名詞	TF2のエンジニアのサブ武器
+
+れんち	Wrench	固有名詞	TF2エンジニアの近接
+ごーるでんれんち	Golden Wrench	固有名詞	TF2エンジニアの近接
+がんすりんがー	Gunslinger	固有名詞	TF2エンジニアの近接
+さうざんほすぴたりてぃ	Southern Hospitality	固有名詞	TF2エンジニアの近接
+じゃぐ	Jag	固有名詞	TF2エンジニアの近接
+ゆーりかえふぇくと	Eureka Effect	固有名詞	TF2エンジニアの近接
