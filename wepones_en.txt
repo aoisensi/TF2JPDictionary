@@ -153,3 +153,10 @@
 さうざんほすぴたりてぃ	Southern Hospitality	固有名詞	TF2エンジニアの近接
 じゃぐ	Jag	固有名詞	TF2エンジニアの近接
 ゆーりかえふぇくと	Eureka Effect	固有名詞	TF2エンジニアの近接
+
+
+
+ちゅうしゃじゅう	Syringe Gun	固有名詞	TF2のメディックのメイン武器
+ぶるーとざおがー	Blutsauger	TF2のメディックのメイン武器
+くるせいだーずくろすぼう	Crusader's Crossbow	TF2のメディックのメイン武器
+おーばーどーず	Overdose	TF2のメディックのメイン武器
