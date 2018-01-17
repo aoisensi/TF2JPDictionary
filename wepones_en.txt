@@ -168,3 +168,8 @@
 はんつまん	Huntsman	固有名詞	TF2のスナイパーのメイン武器
 ふぉーてぃふぁいどこんぱうんど	Fortified Compound	固有名詞	TF2のスナイパーのメイン武器
 しどにーすりーぱー	Sydney Sleeper	固有名詞	TF2のスナイパーのメイン武器
+ばざーるばーげん	Bazaar Bargain	固有名詞	TF2のスナイパーのメイン武器
+まきな	Machina	固有名詞	TF2のスナイパーのメイン武器
+しゅーてぃんぐすたー	Shooting Star	固有名詞	TF2のスナイパーのメイン武器
+ひっとまんずひーとめーかー	Hitman's Heatmaker	固有名詞	TF2のスナイパーのメイン武器
+くらしっく	Classic	固有名詞	TF2のスナイパーのメイン武器
