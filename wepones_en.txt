@@ -160,3 +160,11 @@
 ぶるーとざおがー	Blutsauger	TF2のメディックのメイン武器
 くるせいだーずくろすぼう	Crusader's Crossbow	TF2のメディックのメイン武器
 おーばーどーず	Overdose	TF2のメディックのメイン武器
+
+
+
+すないぱーらいふる	Sniper Rifle	固有名詞	TF2のスナイパーのメイン武器
+あうぱーはんど	AWPer Hand	固有名詞	TF2のスナイパーのメイン武器
+はんつまん	Huntsman	固有名詞	TF2のスナイパーのメイン武器
+ふぉーてぃふぁいどこんぱうんど	Fortified Compound	固有名詞	TF2のスナイパーのメイン武器
+しどにーすりーぱー	Sydney Sleeper	固有名詞	TF2のスナイパーのメイン武器
