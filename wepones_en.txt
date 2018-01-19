@@ -173,3 +173,11 @@
 しゅーてぃんぐすたー	Shooting Star	固有名詞	TF2のスナイパーのメイン武器
 ひっとまんずひーとめーかー	Hitman's Heatmaker	固有名詞	TF2のスナイパーのメイン武器
 くらしっく	Classic	固有名詞	TF2のスナイパーのメイン武器
+
+さぶましんがん	Submachine Gun	固有名詞	TF2のスナイパーのサブ武器
+くりーなーずかーびん	Cleaner's Carbine	固有名詞	TF2のスナイパーのサブ武器
+じゃらて	Jarate	固有名詞	TF2のスナイパーのサブ武器
+せるふあうぇあびゅーてぃーまーく	Self-Aware Beauty Mark	固有名詞	TF2のスナイパーのサブ武器
+れいざーばっく	Razorback	固有名詞	TF2のスナイパーのサブ武器
+だーうぃんずでんじゃーしーるど	Darwin's Danger Shield	固有名詞	TF2のスナイパーのサブ武器
+こーじーきゃんぱー	Cozy Camper	固有名詞	TF2のスナイパーのサブ武器
