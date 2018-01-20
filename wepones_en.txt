@@ -181,3 +181,8 @@
 れいざーばっく	Razorback	固有名詞	TF2のスナイパーのサブ武器
 だーうぃんずでんじゃーしーるど	Darwin's Danger Shield	固有名詞	TF2のスナイパーのサブ武器
 こーじーきゃんぱー	Cozy Camper	固有名詞	TF2のスナイパーのサブ武器
+
+くくり	Kukri	固有名詞	TF2のスナイパーの近接
+とらいばるまんずしぶ	Tribalman's Shiv	固有名詞	TF2のスナイパーの近接
+ぶっしゅわっか	Bushwacka	固有名詞	TF2のスナイパーの近接
+しゃーはんしゃー	Shahanshah	固有名詞	TF2のスナイパーの近接
