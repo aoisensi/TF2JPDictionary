@@ -186,3 +186,12 @@
 とらいばるまんずしぶ	Tribalman's Shiv	固有名詞	TF2のスナイパーの近接
 ぶっしゅわっか	Bushwacka	固有名詞	TF2のスナイパーの近接
 しゃーはんしゃー	Shahanshah	固有名詞	TF2のスナイパーの近接
+
+
+
+りぼるばー	Revolver	固有名詞	TF2のスパイのメイン武器
+びっぐきる	Big Kill	固有名詞	TF2のスパイのメイン武器
+あんばさだー	Ambassador	固有名詞	TF2のスパイのメイン武器
+えとらんぜ	L'Etranger	固有名詞	TF2のスパイのメイン武器
+えんふぉーさー	Enforcer	固有名詞	TF2のスパイのメイン武器
+だいあもんどばっく	Diamondback	固有名詞	TF2のスパイのメイン武器
