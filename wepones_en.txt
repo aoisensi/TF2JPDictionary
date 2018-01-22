@@ -195,3 +195,8 @@
 えとらんぜ	L'Etranger	固有名詞	TF2のスパイのメイン武器
 えんふぉーさー	Enforcer	固有名詞	TF2のスパイのメイン武器
 だいあもんどばっく	Diamondback	固有名詞	TF2のスパイのメイン武器
+
+さっぱー	Sapper	固有名詞	TF2のスパイのサブ武器
+あぷさっぷ	Ap-Sap	固有名詞	TF2のスパイのサブ武器
+すなっくあたっく	Snack Attack	固有名詞	TF2のスパイのサブ武器
+れっどてーぷれこーだー	Red-Tape Recorder	固有名詞	TF2のスパイのサブ武器
