@@ -161,6 +161,11 @@
 くるせいだーずくろすぼう	Crusader's Crossbow	TF2のメディックのメイン武器
 おーばーどーず	Overdose	TF2のメディックのメイン武器
 
+めでぃがん	Medi Gun	固有名詞	TF2のメディックのサブ武器
+くりっつくりーく	Kritzkrieg	固有名詞	TF2のメディックのサブ武器
+くいっくふぃっくす	Quick-Fix	固有名詞	TF2のメディックのサブ武器
+ヴぁくさねーたー	Vaccinator	固有名詞	TF2のメディックのサブ武器
+
 
 
 すないぱーらいふる	Sniper Rifle	固有名詞	TF2のスナイパーのメイン武器
