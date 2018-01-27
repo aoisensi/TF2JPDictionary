@@ -166,6 +166,12 @@
 くいっくふぃっくす	Quick-Fix	固有名詞	TF2のメディックのサブ武器
 ヴぁくさねーたー	Vaccinator	固有名詞	TF2のメディックのサブ武器
 
+ぼーんそう	Bonesaw	固有名詞	TF2のメディックの近接
+ゆーばーそう	Übersaw	固有名詞	TF2のメディックの近接
+ヴぃたそう	Vita-Saw	固有名詞	TF2のメディックの近接
+あんぴゅてーたー	Amputator	Crossing Guard	固有名詞	TF2の全クラスの近接
+されむばう	Solemn Vow	固有名詞	TF2のメディックの近接
+
 
 
 すないぱーらいふる	Sniper Rifle	固有名詞	TF2のスナイパーのメイン武器
