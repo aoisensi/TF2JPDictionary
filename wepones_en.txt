@@ -211,3 +211,12 @@
 あぷさっぷ	Ap-Sap	固有名詞	TF2のスパイのサブ武器
 すなっくあたっく	Snack Attack	固有名詞	TF2のスパイのサブ武器
 れっどてーぷれこーだー	Red-Tape Recorder	固有名詞	TF2のスパイのサブ武器
+
+ないふ	Knife	固有名詞	TF2のスパイの近接
+しゃーぷどれっさー	Sharp Dresser	固有名詞	TF2のスパイの近接
+ぶらっくろーず	Black Rose	固有名詞	TF2のスパイの近接
+ゆあえたーなるりわーど	Your Eternal Reward	固有名詞	TF2のスパイの近接
+わんがぷりっく	Wanga Prick	固有名詞	TF2のスパイの近接
+こんないばーずくない	Conniver's Kunai	固有名詞	TF2のスパイの近接
+びっぐあーなー	Big Earner	固有名詞	TF2のスパイの近接
+すぱいしくる	Spy-cicle	固有名詞	TF2のスパイの近接
