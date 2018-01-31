@@ -234,3 +234,5 @@
 りざーぶしゅーたー	Reserve Shooter	固有名詞	TF2の一部のクラスの武器
 ぱにっくあたっく	Panic Attack	固有名詞	TF2の一部のクラスの武器
 べーすじゃんぱー	B.A.S.E. Jumper	固有名詞	TF2の一部のクラスの武器
+
+さくしー	Saxxy	固有名詞	TF2の全クラスの近接
