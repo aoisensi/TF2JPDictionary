@@ -227,3 +227,10 @@
 くろーくあんどだがー	Cloak and Dagger	固有名詞	TF2のスパイの時計
 でっどりんがー	Dead Ringer	固有名詞	TF2のスパイの時計
 
+
+
+ぴすとる	Pistols	固有名詞	TF2の一部クラスの武器
+しょっとがん	Shotgun	固有名詞	TF2の一部のクラスの武器
+りざーぶしゅーたー	Reserve Shooter	固有名詞	TF2の一部のクラスの武器
+ぱにっくあたっく	Panic Attack	固有名詞	TF2の一部のクラスの武器
+べーすじゃんぱー	B.A.S.E. Jumper	固有名詞	TF2の一部のクラスの武器
