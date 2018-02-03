@@ -238,3 +238,4 @@
 さくしー	Saxxy	固有名詞	TF2の全クラスの近接
 ふらいぱん	Frying Pan	固有名詞	TF2の全クラスの近接
 こんしぇんしゃすおぶじぇくたー	Conscientious Objector	固有名詞	TF2の全クラスの近接
+ふりーだむすたっふ	Freedom Staff	固有名詞	TF2の全クラスの近接
