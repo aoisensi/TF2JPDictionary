@@ -241,3 +241,4 @@
 ふりーだむすたっふ	Freedom Staff	固有名詞	TF2の全クラスの近接
 ばっとあうたへる	Bat Outta Hell	固有名詞	TF2の全クラスの近接
 めもりーめーかー	Memory Maker	固有名詞	TF2の全クラスの近接
+はむしゃんく	Ham Shank	固有名詞	TF2の全クラスの近接
