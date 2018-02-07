@@ -242,3 +242,4 @@
 ばっとあうたへる	Bat Outta Hell	固有名詞	TF2の全クラスの近接
 めもりーめーかー	Memory Maker	固有名詞	TF2の全クラスの近接
 はむしゃんく	Ham Shank	固有名詞	TF2の全クラスの近接
+ごーるでんふらいぱん	Golden Frying Pan	固有名詞	TF2の全クラスの近接
