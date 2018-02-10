@@ -244,3 +244,4 @@
 はむしゃんく	Ham Shank	固有名詞	TF2の全クラスの近接
 ごーるでんふらいぱん	Golden Frying Pan	固有名詞	TF2の全クラスの近接
 ねくろすまっしゃー	Necro Smasher	固有名詞	TF2の全クラスの近接
+くろっしんぐがーど	Crossing Guard	固有名詞	TF2の全クラスの近接
