@@ -69,6 +69,7 @@
 でとねーたー	Detonator	固有名詞	TF2のパイロのサブ武器
 まんめるたー	Manmelter	固有名詞	TF2のパイロのサブ武器
 すこーちしょっと	Scorch Shot	固有名詞	TF2のパイロのサブ武器
+さーまるすらすたー	Thermal Thruster	固有名詞	TF2のパイロのサブ武器
 
 しょうぼうおの	Fire Axe	固有名詞	TF2のパイロの近接
 ろりちょっぷ	Lollichop	固有名詞	TF2のパイロの近接
