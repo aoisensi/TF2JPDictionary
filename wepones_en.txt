@@ -83,6 +83,7 @@
 しゃーぺんどぼるけいのふらっぐめんと	Sharpened Volcano Fragment	固有名詞	TF2のパイロの近接
 さーどでぃぐりー	Third Degree	固有名詞	TF2のパイロの近接
 ねおんあないあれいたー	Neon Annihilator	固有名詞	TF2のパイロの近接
+ほっとはんど	Hot Hand	固有名詞	TF2のパイロの近接
 
 
 
