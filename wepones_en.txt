@@ -129,6 +129,7 @@
 だーろっくすばー	Dalokohs bar	固有名詞	TF2のヘビーのサブ武器
 ふぃっしゅけーき	Fishcake	固有名詞	TF2のヘビーのサブ武器
 ばっふぁろーすてーきさんどヴぃっち	Buffalo Steak Sandvich	固有名詞	TF2のヘビーのサブ武器
+せかんどばなな	Second Banana	固有名詞	TF2のヘビーのサブ武器
 
 こぶし	Fists	固有名詞	TF2のヘビーの近接
 あぽこふぃすつ	Apoco-Fists	固有名詞	TF2のヘビーの近接
