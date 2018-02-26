@@ -1,11 +1,6 @@
-#TF2 日本語辞書
+# TF2 日本語辞書
 
 GoogleIME もしくは mozc でのみ使えると思います
-
-このへん＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝もっと右＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＞  
-にあるであろう`Download ZIP`ボタンでzipでダウンロードできます  
-
-また、ファイルを開いて右上にある`Raw`ってボタンで単体DLが可能です
 
 修正や提案があるのならバンバンプルリクやissueに投げてください  
 プルリクの仕方がわからない場合、  
@@ -13,11 +8,11 @@ GoogleIME もしくは mozc でのみ使えると思います
 にリプライなりチャットなりどうぞ
 
 
-##ファイルの説明
+## ファイルの説明
 
  - `wepones_ja.txt` カタカナ読みでの入力を公式wikiの正規のカタカナの表現にします
 
 
-##ライセンス
+## ライセンス
 
 [![alt](http://creativecommons.jp/wp/wp-content/uploads/2009/10/by.png)](http://creativecommons.org/licenses/by/2.1/jp/)
